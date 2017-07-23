@@ -1,0 +1,27 @@
+C:\Users\Petith\documents\visual studio 2013\Projects\ComplejidadTF\ComplejidadTF\bin\Debug\ComplejidadTF.exe.config
+C:\Users\Petith\documents\visual studio 2013\Projects\ComplejidadTF\ComplejidadTF\bin\Debug\ComplejidadTF.exe
+C:\Users\Petith\documents\visual studio 2013\Projects\ComplejidadTF\ComplejidadTF\bin\Debug\ComplejidadTF.pdb
+C:\Users\Petith\documents\visual studio 2013\Projects\ComplejidadTF\ComplejidadTF\obj\Debug\ComplejidadTF.Form1.resources
+C:\Users\Petith\documents\visual studio 2013\Projects\ComplejidadTF\ComplejidadTF\obj\Debug\ComplejidadTF.Properties.Resources.resources
+C:\Users\Petith\documents\visual studio 2013\Projects\ComplejidadTF\ComplejidadTF\obj\Debug\ComplejidadTF.csproj.GenerateResource.Cache
+C:\Users\Petith\documents\visual studio 2013\Projects\ComplejidadTF\ComplejidadTF\obj\Debug\ComplejidadTF.exe
+C:\Users\Petith\documents\visual studio 2013\Projects\ComplejidadTF\ComplejidadTF\obj\Debug\ComplejidadTF.pdb
+C:\Users\Petith\documents\visual studio 2013\Projects\ComplejidadTF\ComplejidadTF\obj\Debug\ComplejidadTF.csprojResolveAssemblyReference.cache
+C:\Users\DavidZilva\Music\ComplejidadTF\ComplejidadTF\bin\Debug\ComplejidadTF.exe.config
+C:\Users\DavidZilva\Music\ComplejidadTF\ComplejidadTF\obj\Debug\ComplejidadTF.exe
+C:\Users\DavidZilva\Music\ComplejidadTF\ComplejidadTF\obj\Debug\ComplejidadTF.pdb
+C:\Users\DavidZilva\Music\ComplejidadTF\ComplejidadTF\bin\Debug\ComplejidadTF.exe
+C:\Users\DavidZilva\Music\ComplejidadTF\ComplejidadTF\bin\Debug\ComplejidadTF.pdb
+C:\Users\DavidZilva\Music\ComplejidadTF\ComplejidadTF\obj\Debug\ComplejidadTF.csprojResolveAssemblyReference.cache
+C:\Users\DavidZilva\Music\ComplejidadTF\ComplejidadTF\obj\Debug\ComplejidadTF.Form1.resources
+C:\Users\DavidZilva\Music\ComplejidadTF\ComplejidadTF\obj\Debug\ComplejidadTF.Properties.Resources.resources
+C:\Users\DavidZilva\Music\ComplejidadTF\ComplejidadTF\obj\Debug\ComplejidadTF.csproj.GenerateResource.Cache
+C:\Users\win7\Desktop\Repo\NN\ComplejidadTF\ComplejidadTF\bin\Debug\ComplejidadTF.exe.config
+C:\Users\win7\Desktop\Repo\NN\ComplejidadTF\ComplejidadTF\obj\Debug\ComplejidadTF.exe
+C:\Users\win7\Desktop\Repo\NN\ComplejidadTF\ComplejidadTF\obj\Debug\ComplejidadTF.pdb
+C:\Users\win7\Desktop\Repo\NN\ComplejidadTF\ComplejidadTF\bin\Debug\ComplejidadTF.exe
+C:\Users\win7\Desktop\Repo\NN\ComplejidadTF\ComplejidadTF\bin\Debug\ComplejidadTF.pdb
+C:\Users\win7\Desktop\Repo\NN\ComplejidadTF\ComplejidadTF\obj\Debug\ComplejidadTF.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\Repo\NN\ComplejidadTF\ComplejidadTF\obj\Debug\ComplejidadTF.Form1.resources
+C:\Users\win7\Desktop\Repo\NN\ComplejidadTF\ComplejidadTF\obj\Debug\ComplejidadTF.Properties.Resources.resources
+C:\Users\win7\Desktop\Repo\NN\ComplejidadTF\ComplejidadTF\obj\Debug\ComplejidadTF.csproj.GenerateResource.Cache
